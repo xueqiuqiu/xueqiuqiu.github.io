@@ -1,13 +1,13 @@
-# ---------------------------------------------------------------
+﻿# ---------------------------------------------------------------
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
 # Site
-title: Nothing important
+title: 齐幻之旅
 subtitle:
 description:
-author: Maozu
+author: tuzizu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
