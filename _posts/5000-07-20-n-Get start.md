@@ -1,11 +1,11 @@
 ---
 title: Get start
-description: 可能会用这个博客来记录一些喜欢或者不喜欢甚至只是很有感触但自己也讲不清的故事，或者是课余时间愉快的摸鱼经历
+description: 用这个来记录追齐的日子还有每一个我觉得好玩的事情
 categories:
- - 碎碎念
+ - 流水账记录
 tags: 
 ---
 
 > Nothing Gold Can Stay
 
-嘛，记录下来总是好的
+应该是从2019年4月开始的
